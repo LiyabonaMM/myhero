@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+  }
+
+  
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background: #FFCEC2;
+  }
+  
+  /* Styling */
+  
+  body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif; 
+    color: #2E475D;    
+  }
